@@ -11,3 +11,6 @@ format teks itu seperti memberi span background-color yellow,dan juga teks tebal
 ## Menambahkan Photo
 ![menambahkan_photo](img/hasil%20menambahkan%20gambar.png)
 untuk menambahkan foto menggunakan tag img dan ditaruh folder yang sesui untuk source tersebut
+## Menambahkan Link
+![menambahkan_link](img/hasil%20hyperlink%201.png)
+jadi ini adalah contoh bagaimana hasil menambahkan link pada tag HTML yaitu a herf dan hasil nya sebagai berikut
